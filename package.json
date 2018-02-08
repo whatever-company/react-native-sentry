@@ -1,8 +1,8 @@
 {
   "name": "react-native-sentry",
-  "homepage": "https://github.com/getsentry/react-native-sentry",
-  "repository": "https://github.com/getsentry/react-native-sentry",
   "version": "0.34.1",
+  "homepage": "https://github.com/whatever-company/react-native-sentry",
+  "repository": "https://github.com/whatever-company/react-native-sentry",
   "description": "Official Sentry SDK for react-native",
   "typings": "lib/Sentry.d.ts",
   "typescript": {
